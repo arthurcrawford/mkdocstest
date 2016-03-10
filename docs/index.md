@@ -1,6 +1,7 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
+This is version 1.3
 
 ## Commands
 
